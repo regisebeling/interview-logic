@@ -1,6 +1,11 @@
 # Entrevista | Exercícios de Lógica
 Escolha dois exercícios abaixo para realizar a implementação de uma programa utilizando uma linguagem de programação a seu gosto.
 
+Os critérios de avaliação são:
+- Resultado correto
+- Performance
+- Clareza do código-fonte
+
 Realize um *fork* do repositório e peça um *pull-request* para enviar suas respostas.
 
 ## Exercício 1
