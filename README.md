@@ -14,7 +14,11 @@ Implemente um método de busca binária que recebe um número inteiro `n` e um a
 
 ## Exercício 4
 Elabore um programa que recebe um número inteiro `N` maior que zero e imprima na tela um triângulo conforme o padrão abaixo:
-	1
-	2 3
-	4 5 6
-	7 8 9 10, para uma entrada N = 4.
+
+Para uma entrada N = 4.
+```	
+1
+2 3
+4 5 6
+7 8 9 10
+```
